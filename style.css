@@ -50,3 +50,13 @@ text-align: center;
 footer{
 background-color: #b01e1e;
 }
+a:link {
+  color: #FFFF;;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #FFFF;;
+  background-color: transparent;
+  text-decoration: none;
+}
