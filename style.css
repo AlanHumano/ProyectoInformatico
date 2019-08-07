@@ -1,0 +1,52 @@
+body{
+    background:#c92222;
+    color:#fff;
+    font-weight: 300;
+    font-size: 16px;
+}
+#cronica{
+margin-left: 65%;
+}
+#contenedor{
+text-align:center;
+overflow:hidden;
+font-size: 120px;
+font-family: 'Bowlby One SC', cursive;
+-webkit-text-stroke-width: 5px;
+-webkit-text-stroke-color: black;
+}
+p{
+font-size:75px;
+color:white;
+font-family: 'Bowlby One SC', cursive;
+-webkit-text-stroke-width: 5px;
+-webkit-text-stroke-color: black;
+}
+.p2{
+font-size: 25px;
+color:white;
+-webkit-text-stroke-width: 0px;
+-webkit-text-stroke-color: black;
+font-family: 'Rambla', sans-serif;
+text-align: center;
+}
+.p3{
+font-size: 35px;
+font-family: 'Lobster', cursive;
+color: #FFFF;
+-webkit-text-stroke-width: 0px;
+-webkit-text-stroke-color: black;
+text-align: center;
+}
+.infoCont{
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Bowlby One SC', cursive;
+  margin-left: 26%;
+  color: white;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+}
+footer{
+background-color: #b01e1e;
+}
